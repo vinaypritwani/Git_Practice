@@ -7,3 +7,4 @@ def substraction(a,b,d):
 
 def divison(a,b):
     return a/b
+
